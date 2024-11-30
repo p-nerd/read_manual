@@ -1,0 +1,17 @@
+{
+    "name": "shihab/lib",
+    "autoload": {
+        "psr-4": {
+            "Shihab\\Lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shihab Mahamud",
+            "email": "shihab4t@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^7.2"
+    }
+}
