@@ -1,8 +1,8 @@
 {
-    "name": "shihab/lib",
+    "name": "p-nerd/lib",
     "autoload": {
         "psr-4": {
-            "Shihab\\Lib\\": "src/"
+            "PNerd\\Lib\\": "src/"
         }
     },
     "authors": [
