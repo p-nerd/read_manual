@@ -51,6 +51,9 @@
         ],
         "build": [
             "php artisan config:clear; php artisan config:cache"
+        ],
+        "clean": [
+            "php artisan config:clear"
         ]
     },
     "extra": {
