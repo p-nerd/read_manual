@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . "/../lib/src/helpers.php";
+require __DIR__ . "/src/helpers.php";
 
 class Calculator {
     /**
